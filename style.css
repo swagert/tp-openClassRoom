@@ -1,0 +1,39 @@
+header {
+	height: 100px;
+	color: white;
+	background-color: green;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+main {
+	background-color: #aaa;
+}
+
+.instruction, .video {
+	background-color: white;
+	text-align: center;
+	color: green;
+	margin: 30px 0;
+}
+
+p {
+	margin: 0;
+	padding: 20px 0;
+}
+
+a {
+	color: aqua;
+}
+
+img {
+	width: 100%;
+}
+
+footer {
+	height: 50px;
+	color: white;
+	background-color: green;
+	text-align: center;
+	text-transform: uppercase;
+}
